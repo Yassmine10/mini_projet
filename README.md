@@ -1,4 +1,4 @@
-# Design Builder
+# Design Builder (test pour un stage)
 
 Application web pour configurer et prévisualiser un design de page (bannière + 4 colonnes).
 
